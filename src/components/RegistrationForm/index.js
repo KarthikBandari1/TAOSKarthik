@@ -66,7 +66,7 @@ class RegistrationForm extends Component {
       email: emailInput,
     }
 
-    const url = 'https://mern-task-app2.onrender.com'
+    const url = 'https://mern-task-app-api3.onrender.com'
     const options = {
       method: 'POST',
       headers: {
